@@ -122,8 +122,3 @@ O risco de saída é crítico no início da jornada. O valor da mensalidade (Mon
 
 **Desenvolvido por:** [Wagner Bruni Batista]  
 **Contato:** [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WBruni/analise-churn-telecom-x)
-
-
-
-
-https://raw.githubusercontent.com/WBruni/analise-churn-telecom-x/main/images/
