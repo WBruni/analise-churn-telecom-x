@@ -6,6 +6,7 @@
 ## 📋 Sobre o Projeto
 Este projeto apresenta uma análise profunda dos fatores que influenciam o **Churn** (cancelamento de serviços) na Telecom X. Através de uma abordagem de Análise Exploratória de Dados (EDA), identificamos padrões demográficos, contratuais e financeiros que permitem à empresa antecipar perdas e otimizar o Lifetime Value (LTV) da base de clientes.
 
+[Visualizar Relatório Interativo (HTML)](https://htmlpreview.github.io/?https://github.com/WBruni/analise-churn-telecom-x/blob/main/Relatorio_Telecom_X.html)
 ---
 
 ## 🔍 **Análise da Estrutura dos Dados**
@@ -121,3 +122,8 @@ O risco de saída é crítico no início da jornada. O valor da mensalidade (Mon
 
 **Desenvolvido por:** [Wagner Bruni Batista]  
 **Contato:** [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WBruni/analise-churn-telecom-x)
+
+
+
+
+https://raw.githubusercontent.com/WBruni/analise-churn-telecom-x/main/images/
